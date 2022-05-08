@@ -8,5 +8,18 @@
       "id": 1
     }
   ],
-  "animals": []
+  "books": [
+    {
+      "type": "Aventura",
+      "name": "O Senhor dos Anéis",
+      "userId": 1
+    }
+  ],
+  "review": [
+    {
+      "userId": 1,
+      "description": "Lorem ipsum dolor sit amet, coprehenderit in voluptate velit esse cillum dolore ident, sunt in culpa id est laborum.",
+      "rating": "5 stars"
+    }
+  ]
 }
